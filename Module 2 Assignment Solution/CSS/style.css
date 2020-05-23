@@ -10,22 +10,21 @@ h1 {
 }
 
 p {
-  font-family: monospace;
-  border: 1px solid black;
-  width: 95%;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: gray;
-  padding-top: 40px;
-  margin-top: 0px;
+   font-family: monospace;
+    border: 1px solid black;
+    background-color: gray;
+    padding-top: 40px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 div.Chicken {
-  background-color: pink;
-  padding: 2px 37px 5px 37px;
+  background-color: yellow;
+  padding: 3px 38px 7px 38px;
   position: absolute;
   right: 2.5%;
-  border: 1px solid black;
+  border: 2px solid black;
   top: 0px;
   text-align: center;
   width: 110px;
@@ -33,10 +32,10 @@ div.Chicken {
 
 div.Beef {
   background-color: orange;
-  padding: 2px 37px 5px 37px;
+  padding: 3px 38px 7px 38px;
   position: absolute;
   right: 2.5%;
-  border: 1px solid black;
+  border: 2px solid black;
   top: 0px;
   text-align: center;
   width: 110px;
@@ -44,11 +43,11 @@ div.Beef {
 
 div.Sushi {
   background-color: red;
-  padding: 2px 37px 5px 37px;
+  padding: 3px 38px 7px 38px;
   text-align: center;
   position: absolute;
   right: 2.5%;
-  border: 1px solid black;
+  border: 2px solid black;
   top: 0px;
   width: 110px;
 }
